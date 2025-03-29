@@ -1,6 +1,7 @@
 from random import randint
 import pygame
 import time
+import numpy
 from files.game import Game
 from files.ball import *
 from files.sounds import SoundManager
